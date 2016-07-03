@@ -72,5 +72,11 @@ var peopleLovePapa = [
 		name: "Novel.js",
 		description: "is a text adventure framework that uses Papa Parse to enable user-friendly translations.",
 		quote: "Papa saves countless hours of work and makes reading large CSV files so easy!"
+	},
+	{
+		link: "http://borbely.info/portfolio/js-geocoder",
+		name: "js.geocoder",
+		description: "js.geocoder does just that, geocodes your addressed right in the browser",
+		quote: "Papa's streaming feature lets you process as much data as you can just imagine"
 	}
 ];
